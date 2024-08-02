@@ -1,0 +1,9 @@
+/* styles.css */
+.error-message {
+    color: red;
+    display: none; /* Hidden by default */
+    margin-top: 5px;
+}
+.voter{
+    background-image: url(vote.jpeg);
+}
